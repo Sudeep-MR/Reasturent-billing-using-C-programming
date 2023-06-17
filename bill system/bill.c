@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-//ghjkmnbfghjkbvbnm,mnbbnm,
+
 struct Item {
     char item[100];
     float price;
